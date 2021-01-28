@@ -1,1 +1,1 @@
-Web Development using Rails by Santa Samuel
+Web Development using Rails by Santa Samuel Ayotunde.
